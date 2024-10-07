@@ -37,7 +37,7 @@ Github is for portfolio Building
 power Bi is also microsoft office package.
 
 So, we are on Power BI now, I have been able to download it, am waiting for my facilitatior to press go botton.
-I can't wait to explore Power BI 💻😂
+I can't wait to explore Power BI 💻💃💃
 
 ---
 ### DATA ANALYSIS
