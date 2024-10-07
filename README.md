@@ -35,8 +35,8 @@ Github is for portfolio Building
 power Bi is also microsoft office package.
 
 So, we are on Power BI now, I have been able to download it, am waiting for my facilitatior to press go botton.
----
 
+---
 ### DATA ANALYSIS
 These are the functions, codes or queries used during the classes
 ```Excel
