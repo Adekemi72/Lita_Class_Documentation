@@ -31,7 +31,7 @@ Being able to practicalize these function without being guide by anyone is an ev
 -Github [Download Here](https://www.github.com)
 Github is for portfolio Building
 
-** MR. TEMIDAYO TEEDEE is the facilitator for both 'Github' and 'Power Bi'**
+**MR. TEMIDAYO TEEDEE is the facilitator for both 'Github' and 'Power Bi'**
 
 -Power Bi  [Download Here](https://www.microsoft.com)
 power Bi is also microsoft office package.
